@@ -1,0 +1,38 @@
+h1{
+    color: rgb(255, 255, 255); 
+    font-size:60px;
+    font-family: serif;
+    text-transform: uppercase;
+    list-style-position: inside;
+}
+a{
+    
+    color: rgb(255, 255, 255); 
+    font-size:30px;
+    font-family:serif;
+    text-transform: lowercase;
+
+}
+h3{
+    color: lightcoral;
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+p{
+    color: rgb(5, 5, 5);
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+div.gallery {
+    margin: 2px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    font-family:"Times New Roman" ;
+
+    
+  }
+  div.desc{
+    font-family:"Times New Roman" ;
+
+  }
